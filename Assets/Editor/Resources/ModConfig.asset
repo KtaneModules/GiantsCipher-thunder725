@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: GiantsCipher
+  title: Giants Cipher
+  author: thunder725
+  description: 'Giants Cipher - 1.0
+
+
+    Apply five ciphers to a LED grid to find and press the original pattern.
+
+
+    Module ID: GiantsCipher
+
+
+    Created by: thunder725
+
+
+    Manual available here: https://ktane.timwi.de/HTML/Giants%20Cipher.html
+
+
+    =-= Build notes =-=
+
+    =-= 1.0
+
+    - Initial Release'
+  version: 1.0
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: d766843b1a5366644ae3b60341c5f2c1, type: 3}
